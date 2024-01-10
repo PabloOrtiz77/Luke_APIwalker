@@ -1,0 +1,23 @@
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+  width: 800px;
+  align-items:center;
+  justify-content:flex-start;
+  column-gap: 20px;
+  margin: 50px auto;
+}
+
+
+.btn{
+  padding: 5px 40px;
+  background-color: rgba(0, 0, 0, 0.518);
+  color: white;
+  
+}
